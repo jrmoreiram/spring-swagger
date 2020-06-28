@@ -1,2 +1,12 @@
 # spring-swagger
-Spring api utilizando a documentação swagger.
+Spring api utilizando a documentação swagger e padrão mvc para estrutura de pastas.
+
+Dependencias utilizadas:
+- Spring Boot DevTools
+- H2 Database
+- Spring Web
+- Spring Data JPA
+- Lombok
+
+![](images/Introduction.png?raw=true)
+
