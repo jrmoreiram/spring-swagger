@@ -1,5 +1,5 @@
 # spring-swagger
-Spring api utilizando a documentação swagger e padrão mvc para estrutura de pastas.
+Projeto spring-swagger api spring utilizando a documentação swagger.
 
 Dependencias utilizadas:
 - Spring Boot DevTools
