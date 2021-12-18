@@ -1,4 +1,4 @@
-# spring-swagger
+# Spring - Swagger
 Projeto spring-swagger api spring utilizando a documentação swagger.
 
 Dependencias utilizadas:
