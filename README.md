@@ -1,5 +1,5 @@
 # Spring - Swagger
-Projeto spring-swagger api spring utilizando a documentação swagger.
+Projeto spring-swagger, api spring utilizando a documentação swagger.
 
 Dependencias utilizadas:
 - Spring Boot DevTools
