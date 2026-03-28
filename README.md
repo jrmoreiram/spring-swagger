@@ -1,4 +1,4 @@
-# 🚀 Spring Swagger - Documentação Técnica
+# 🚀 Spring Swagger
 
 ![Swagger Documentation](images/Introduction.png?raw=true)
 
